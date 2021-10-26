@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(rgb(207, 245, 242), rgb(22, 145, 202));
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 4px 4px 4px rgb(77, 162, 231);
+    font-size: 40px;
+    font-family: Tahoma, Verdana, sans-serif;
+    margin: 30px;
+    margin-top: 40px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    margin-left: 2vh;
+}
+
+a:hover {
+    color: #4096cf;
+}
+
+.links {
+    text-align: center;
+    font-family: Tahoma, Verdana, sans-serif;
+
+}

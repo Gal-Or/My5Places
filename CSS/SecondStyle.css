@@ -1,0 +1,65 @@
+h2 {
+    font-family: Tahoma, Verdana, sans-serif;
+    margin-left: 25px;
+    text-shadow: 4px 4px 4px rgb(77, 162, 231);
+}
+
+h3 {
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+tr,
+td {
+    margin: 15xp;
+    font-family: Tahoma, Verdana, sans-serif;
+    padding-left: 40px;
+    padding-right: 40px;
+    vertical-align: top;
+}
+
+p {
+    font-size: 18px;
+    font-family: Tahoma, Verdana, sans-serif;
+
+}
+
+.main {
+    width: 75%;
+    /*background: white;*/
+    position: relative;
+    margin: 0 auto;
+    padding: 2vh;
+
+
+
+}
+
+.WorldMap {
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    border: solid;
+    border-color: rgb(77, 162, 231);
+    padding: 10px;
+}
+
+.LocationImage {
+
+    display: block;
+    margin: auto;
+    margin-bottom: 30px;
+    border: 3px solid rgb(77, 162, 231);
+    width: 700px;
+    height: 400px;
+    padding: 10px;
+}
+
+table {
+    display: table;
+    margin: 0 auto;
+    text-align: justify;
+}
